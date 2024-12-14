@@ -2,13 +2,14 @@
     <div>
         Index of blog
     </div>
-    <div>
+<!---<div>
         <button @click="enableCustomLayout">Update layout</button>
     </div>
+-->    
 </template>
 
 <script setup>
-function enableCustomLayout() {
-    setPageLayout('custom')
-}
+//function enableCustomLayout() {
+//    setPageLayout('custom')
+//}
 </script>

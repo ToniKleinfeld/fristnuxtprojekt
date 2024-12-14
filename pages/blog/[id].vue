@@ -8,9 +8,9 @@
 </template>
 
 <script setup>
- const route = useRoute();
+// const route = useRoute();
 
- definePageMeta({
-    layout: "custom",
- })
+//  definePageMeta({
+//    layout: "custom",
+// })
 </script>
