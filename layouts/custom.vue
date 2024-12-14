@@ -3,10 +3,10 @@
     <nav>
       <ul>
         <li>
-          <NuxtLink to="/"> Main </NuxtLink>
+          <NuxtLink to="/blog/"> Blog Main </NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/about"> About </NuxtLink>
+          <NuxtLink to="/blog/xx"> xx ID </NuxtLink>
         </li>
       </ul>
     </nav>

@@ -9,4 +9,8 @@
 
 <script setup>
  const route = useRoute();
+
+ definePageMeta({
+    layout: "custom",
+ })
 </script>
